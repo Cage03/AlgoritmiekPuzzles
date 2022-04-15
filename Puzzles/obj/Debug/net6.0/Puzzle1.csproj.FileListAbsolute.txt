@@ -1,0 +1,15 @@
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\obj\Debug\net6.0\Puzzle1.csproj.AssemblyReference.cache
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\obj\Debug\net6.0\Puzzle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\obj\Debug\net6.0\Puzzle1.AssemblyInfoInputs.cache
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\obj\Debug\net6.0\Puzzle1.AssemblyInfo.cs
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\obj\Debug\net6.0\Puzzle1.csproj.CoreCompileInputs.cache
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\bin\Debug\net6.0\Puzzle1.exe
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\bin\Debug\net6.0\Puzzle1.deps.json
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\bin\Debug\net6.0\Puzzle1.runtimeconfig.json
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\bin\Debug\net6.0\Puzzle1.dll
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\bin\Debug\net6.0\Puzzle1.pdb
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\obj\Debug\net6.0\Puzzle1.dll
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\obj\Debug\net6.0\refint\Puzzle1.dll
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\obj\Debug\net6.0\Puzzle1.pdb
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\obj\Debug\net6.0\Puzzle1.genruntimeconfig.cache
+C:\Users\stijn\RiderProjects\AlgoritmiekPuzzles\Puzzle1\obj\Debug\net6.0\ref\Puzzle1.dll
